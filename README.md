@@ -14,3 +14,5 @@ Quote:
 	1. Item 2b
 
 ## End
+
+Django 1966, Sergio Scorbucci
