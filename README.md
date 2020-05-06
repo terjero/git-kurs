@@ -15,4 +15,4 @@ Quote:
 
 ## End
 
-Django 1966
+Django 1966, Sergio Scorbucci
